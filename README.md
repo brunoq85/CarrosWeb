@@ -50,11 +50,11 @@ A API possui os seguintes endpoints:
 
 | Método | Endpoint         | Descrição                    |
 |--------|------------------|------------------------------|
-| GET    | /api/carro        | Retorna todos os carros      |
-| GET    | /api/carro/{id}   | Retorna um carro pelo ID     |
-| POST   | /api/carro        | Cria um novo carro           |
-| PUT    | /api/carro/{id}   | Atualiza um carro existente  |
-| DELETE | /api/carro/{id}   | Deleta um carro pelo ID      |
+| GET    | /api/carros        | Retorna todos os carros      |
+| GET    | /api/carros/{id}   | Retorna um carro pelo ID     |
+| POST   | /api/carros        | Cria um novo carro           |
+| PUT    | /api/carros/{id}   | Atualiza um carro existente  |
+| DELETE | /api/carros/{id}   | Deleta um carro pelo ID      |
 
 ## Executando o Projeto
 
